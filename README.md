@@ -1,7 +1,5 @@
-### Hi there 👋
+👋 I caught you snooping around! Well go ahead..
 
-<!--
-**astronaut99/astronaut99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
