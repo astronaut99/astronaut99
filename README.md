@@ -3,8 +3,6 @@
 
 ### 👋 I caught you snooping around! Well go ahead.. [website]
 
-[![Website](https://www.github.com/astronaut99)](under-construction)
-
 
 ## I'm a Student, Developer & a Social Worker !
 
