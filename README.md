@@ -62,7 +62,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://github.com/astronaut99
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
