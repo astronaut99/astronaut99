@@ -43,13 +43,11 @@
 <br />
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Rakshit's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=astronaut99&show_icons=true&hide_border=true&theme=radical" />
 
 
-</details>
+
 
 [website]: https://myportfolio-astronaut99.herokuapp.com/index.html
 [twitter]: https://twitter.com/codeSTACKr
