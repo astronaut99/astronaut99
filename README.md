@@ -2,6 +2,7 @@
 
 
 # 👋 I caught you snooping around! Well go ahead..
+[website]
 
 
 ## I'm a Student, Developer & a Social Worker !
@@ -49,7 +50,7 @@
 
 </details>
 
-[website]: https://github.com/astronaut99
+[website]: https://myportfolio-astronaut99.herokuapp.com/index.html
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/rakshitkumar_
