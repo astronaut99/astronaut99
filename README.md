@@ -1,6 +1,3 @@
-
-
-
 #👋 I caught you snooping around! Well go ahead..
 
 ##[Check out my Portfolio!][website]
