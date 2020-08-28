@@ -1,8 +1,8 @@
 
 
 
-# 👋 I caught you snooping around! Well go ahead..
-[website]
+#👋 I caught you snooping around! Well go ahead..[Check out my Portfolio!][website]
+
 
 
 ## I'm a Student, Developer & a Social Worker !
