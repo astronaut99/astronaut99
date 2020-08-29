@@ -3,7 +3,7 @@
 
 # 👋 I caught you snooping around! Well go ahead..
 
-## :point_right: :point_right: :point_right: :point_right: [Check out my Portfolio][website]
+## :point_right: :point_right: :point_right: :point_right: :point_right: :point_right:  [Check out my Portfolio][website] :point_left: :point_left: :point_left: :point_left: :point_left: :point_left:
 
 
 ## I'm a Student, Developer & a Social Worker !
