@@ -51,7 +51,7 @@
 
 </details>
 
-[website]: https://myportfolio-astronaut99.herokuapp.com/index.html
+[website]: https://astronaut99.github.io/Portfolio/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/rakshitkumar_
