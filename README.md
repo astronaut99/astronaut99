@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Society
-- ⚡ Fun fact: I am professional traveller.
+- ⚡ Fun fact: I am a professional traveller.
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
